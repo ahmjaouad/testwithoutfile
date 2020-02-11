@@ -1,0 +1,677 @@
+
+	<!-- Do not remove previous year model codes since it is being used for previous year Inventory Support -->
+	<util:map id="mediaServerSupportMap">
+		<entry key="GLA|GLA250W2">
+			<null />
+		</entry>
+		<entry key="GLA|GLA45">
+            <!-- List of available component names
+			<util:list>
+				<value>byo_hero_exterior</value>
+				<value>byo_hero_interior</value>
+                <value>model_hero_exterior</value>
+			</util:list>
+            -->
+            <null />
+		</entry>	
+		<entry key="A|A220W">
+			<null />
+		</entry>
+		<entry key="A|A220W4">
+			<null />
+		</entry>
+		<entry key="GT4|GT63C4">
+			<null />
+		</entry>
+		<entry key="GT4|GT63C4S">
+			<null />
+		</entry>
+		<entry key="GT4|GT53C4">
+			<null />
+		</entry>	
+		<entry key="C|C300C">
+			<null />
+		</entry>
+		<entry key="C|C300C4">
+			<null />
+		</entry>
+		<entry key="S|S560C4">
+			<null />
+		</entry>
+		<entry key="S|S63C4">
+			<null />
+		</entry>
+		<entry key="S|S65C">
+			<null />
+		</entry>
+		<entry key="CLA|CLA250C">
+			<null />
+		</entry>
+		<entry key="CLA|CLA250C4">
+			<null />
+		</entry>
+		<entry key="CLA|CLA45">
+			<null />
+		</entry>
+		<entry key="CLA|CLA45C4">
+			<null />
+		</entry>
+		<entry key="CLS|CLS400C">
+			<null />
+		</entry>
+		<entry key="CLS|CLS400C4">
+			<null />
+		</entry>
+		<entry key="CLS|CLS550C">
+			<null />
+		</entry>
+		<entry key="CLS|CLS550C4">
+			<null />
+		</entry>
+		<entry key="CLS|CLS63C4S">
+			<null />
+		</entry>
+		<entry key="C|C63">
+			<null />
+		</entry>
+		<entry key="C|C63P">
+			<null />
+		</entry>
+		<entry key="GLE|GLE450C4">
+			<null />
+		</entry>
+		<entry key="GLE|GLE63C4S">
+			<null />
+		</entry>	
+		<entry key="GLC|GLC300W">
+			<null />
+		</entry>
+		<entry key="GLC|GLC300W4">
+			<null />
+		</entry>
+		<entry key="GLE|GLE350W">
+			<null />
+		</entry>
+		<entry key="GLE|GLE350W4">
+			<null />
+		</entry>
+		<entry key="GLE|GLE450W4">
+			<null />
+		</entry>
+		<entry key="GLE|GLE400W4">
+			<null />
+		</entry>
+		<entry key="GLE|GLE63W4">
+			<null />
+		</entry>
+		<entry key="GLE|GLE63W4S">
+			<null />
+		</entry>
+		<entry key="GLA|GLA250W">
+			<null />
+		</entry>
+		<entry key="GLA|GLA250W4">
+			<null />
+		</entry>
+		<entry key="GLA|GLA45W4">
+			<null />
+		</entry>		
+		<entry key="C|C350WE">
+			<null />
+		</entry>
+		<entry key="GLE|GLE550E4">
+			<null />
+		</entry>
+		<entry key="S|S560A">
+			<null />
+		</entry>
+		<entry key="S|S63A4">
+			<null />
+		</entry>
+		<entry key="SL|SL450R">
+			<null />
+		</entry>
+		<entry key="SL|SL550R">
+			<null />
+		</entry>
+		<entry key="SL|SL63R">
+			<null />
+		</entry>
+		<entry key="SL|SL65R">
+			<null />
+		</entry>
+		<entry key="GLS|GLS350D4">
+			<null />
+		</entry>
+		<entry key="GLS|GLS450W4">
+			<null />
+		</entry>
+		<entry key="GLS|GLS550W4">
+			<null />
+		</entry>
+		<entry key="GLS|GLS63W4">
+			<null />
+		</entry>
+		<entry key="SLC|SLC300R">
+			<null />
+		</entry>
+		<entry key="C|C63C">
+			<null />
+		</entry>
+		<entry key="C|C63CS">
+			<null />
+		</entry>
+		<entry key="E|E300W">
+			<null />
+		</entry>
+		<entry key="E|E300W4">
+			<null />
+		</entry>
+		<entry key="SLC|SLC43R">
+			<null />
+		</entry>
+		<entry key="GLE|GLE43C4">
+			<null />
+		</entry>
+		<entry key="S|S65A">
+			<null />
+		</entry>
+		<entry key="C|C300A">
+			<null />
+		</entry>
+		<entry key="C|C300A4">
+			<null />
+		</entry>
+		<entry key="C|C43C4">
+			<null />
+		</entry>
+		<entry key="GLC|GLC43W4">
+			<null />
+		</entry>
+		<entry key="C|C63A">
+			<null />
+		</entry>
+		<entry key="C|C63AS">
+			<null />
+		</entry>
+		<entry key="C|C300W">
+			<null />
+		</entry>
+		<entry key="C|C300W4">
+			<null />
+		</entry>
+		<entry key="C|C43W4">
+			<null />
+		</entry>
+		<entry key="C|C63W">
+			<null />
+		</entry>
+		<entry key="C|C63WS">
+			<null />
+		</entry>
+		<entry key="C|C43A4">
+			<null />
+		</entry>
+		<entry key="G|G550W4">
+			<null />
+		</entry>
+		<entry key="G|G63W4">
+			<null />
+		</entry>
+		<entry key="G|G65W4">
+			<null />
+		</entry>
+		<entry key="E|E43W4">
+			<null />
+		</entry>	
+		<entry key="GLC|GLC300C4">
+			<null />
+		</entry>
+		<entry key="GLE|GLE43W4">
+			<null />
+		</entry>
+		<entry key="E|E400S4">
+			<null />
+		</entry>
+		<entry key="GLC|GLC43C4">
+			<null />
+		</entry>
+		<entry key="GT|GTA">
+			<null />
+		</entry>
+		<entry key="GT|GTCA">
+			<null />
+		</entry>
+		<entry key="GT|GT">
+			<null />
+		</entry>
+		<entry key="GT|GTS">
+			<null />
+		</entry>
+		<entry key="GT|GTR">
+			<null />
+		</entry>
+		<entry key="E|E63W4S">
+			<null />
+		</entry>
+		<entry key="S|S450V">
+			<null />
+		</entry>
+		<entry key="S|S450V4">
+			<null />
+		</entry>
+		<entry key="S|S560V4">
+			<null />
+		</entry>
+		<entry key="S|S63V4">
+			<null />
+		</entry>
+		<entry key="E|E63S4S">
+			<null />
+		</entry>
+		<entry key="S|S560X4">
+			<null />
+		</entry>
+		<entry key="E|E400A">
+			<null />
+		</entry>
+		<entry key="E|E400A4">
+			<null />
+		</entry>
+		<entry key="S|S560V">
+			<null />
+		</entry>
+		<entry key="S|S65V">
+			<null />
+		</entry>
+		<entry key="S|S650X">
+			<null />
+		</entry>
+		<entry key="GT|GTC">
+			<null />
+		</entry>
+		<entry key="E|E400W4">
+			<null />
+		</entry>
+		<entry key="GLC|GLC350E4">
+			<null />
+		</entry>
+		<entry key="GLC|GLC63W4">
+			<null />
+		</entry>
+		<entry key="GLC|GLC63C4">
+			<null />
+		</entry>
+		<entry key="GLC|GLC63C4S">
+			<null />
+		</entry>
+		<entry key="2017|S|S550C4">
+			<null />
+		</entry>
+		<entry key="2017|S|S550A">
+			<null />
+		</entry>
+		<entry key="2017|G|G550W4">
+			<null />
+		</entry>
+		<entry key="2017|G|G63W4">
+			<null />
+		</entry>
+		<entry key="2017|G|G65W4">
+			<null />
+		</entry>
+		<entry key="2017|C|C350WE">
+			<null />
+		</entry>
+		<entry key="2017|GLE|GLE550E4">
+			<null />
+		</entry>
+		<entry key="2017|CLS|CLS550C">
+			<null />
+		</entry>
+		<entry key="2017|CLS|CLS550C4">
+			<null />
+		</entry>
+		<entry key="2017|CLS|CLS63C4S">
+			<null />
+		</entry>
+		<entry key="2017|SL|SL450R">
+			<null />
+		</entry>
+		<entry key="2017|SL|SL550R">
+			<null />
+		</entry>
+		<entry key="2017|SL|SL63R">
+			<null />
+		</entry>
+		<entry key="2017|SL|SL65R">
+			<null />
+		</entry>
+		<entry key="2017|C|C300A">
+			<null />
+		</entry>
+		<entry key="2017|C|C300A4">
+			<null />
+		</entry>
+		<entry key="2017|C|C43A4">
+			<null />
+		</entry>
+		<entry key="2017|C|C63A">
+			<null />
+		</entry>
+		<entry key="2017|C|C63AS">
+			<null />
+		</entry>
+		<entry key="2017|C|C300C">
+			<null />
+		</entry>
+		<entry key="2017|C|C300C4">
+			<null />
+		</entry>
+		<entry key="2017|C|C63C">
+			<null />
+		</entry>
+		<entry key="2017|C|C63CS">
+			<null />
+		</entry>
+		<entry key="2017|C|C43C4">
+			<null />
+		</entry>
+		<entry key="2017|E|E300W">
+			<null />
+		</entry>
+		<entry key="2017|E|E300W4">
+			<null />
+		</entry>
+		<entry key="2017|E|E43W4">
+			<null />
+		</entry>
+		<entry key="2017|E|E400S4">
+			<null />
+		</entry>
+		<entry key="C|C300WB">
+			<null />
+		</entry>
+		<entry key="2017|C|C300W">
+			<null />
+		</entry>
+		<entry key="2017|C|C300WB">
+			<null />
+		</entry>
+		<entry key="2017|C|C300WZ">
+			<null />
+		</entry>
+		<entry key="C|C300WZ">
+			<null />
+		</entry>
+		<entry key="C|C300WB4">
+			<null />
+		</entry>
+		<entry key="2017|C|C300W4">
+			<null />
+		</entry>
+		<entry key="2017|C|C300WB4">
+			<null />
+		</entry>
+		<entry key="2017|C|C300WZ4">
+			<null />
+		</entry>
+		<entry key="C|C300WZ4">
+			<null />
+		</entry>
+		<entry key="2017|C|C43W4">
+			<null />
+		</entry>
+		<entry key="2017|C|C63W">
+			<null />
+		</entry>
+		<entry key="2017|C|C63WS">
+			<null />
+		</entry>
+		<entry key="2017|SLC|SLC300R">
+			<null />
+		</entry>
+		<entry key="2017|SLC|SLC43R">
+			<null />
+		</entry>
+		<entry key="2017|GLE|GLE43C4">
+			<null />
+		</entry>
+		<entry key="2017|GLE|GLE63C4S">
+			<null />
+		</entry>
+		<entry key="E|E400C">
+			<null />
+		</entry>
+		<entry key="E|E400C4">
+			<null />
+		</entry>
+		<entry key="2017|GLC|GLC300W">
+			<null />
+		</entry>
+		<entry key="2017|GLC|GLC300W4">
+			<null />
+		</entry>
+		<entry key="2017|GLC|GLC43W4">
+			<null />
+		</entry>
+		<entry key="2017|GLC|GLC300C4">
+			<null />
+		</entry>
+		<entry key="2017|GLC|GLC43C4">
+			<null />
+		</entry>
+		<entry key="2017|GTS|GTS">
+			<null />
+		</entry>
+		<entry key="2017|GTS|GT">
+			<null />
+		</entry>
+		<entry key="2017|GLA|GLA250W">
+			<null />
+		</entry>
+		<entry key="2017|GLA|GLA250W4">
+			<null />
+		</entry>
+		<entry key="2017|GLA|GLA45W4">
+			<null />
+		</entry>
+		<entry key="2017|CLA|CLA250C">
+			<null />
+		</entry>
+		<entry key="2017|CLA|CLA250C4">
+			<null />
+		</entry>		
+		<entry key="2017|CLA|CLA45C4">
+			<null />
+		</entry>
+		<entry key="2017|GLE|GLE350W">
+			<null />
+		</entry>
+		<entry key="2017|GLE|GLE350W4">
+			<null />
+		</entry>
+		<entry key="2017|GLE|GLE43W4">
+			<null />
+		</entry>
+		<entry key="2017|GLE|GLE63W4">
+			<null />
+		</entry>
+		<entry key="2017|GLE|GLE63W4S">
+			<null />
+		</entry>
+		<entry key="2017|GLS|GLS450W4">
+			<null />
+		</entry>
+		<entry key="2017|GLS|GLS550W4">
+			<null />
+		</entry>
+		<entry key="2017|GLS|GLS63W4">
+			<null />
+		</entry>
+		<entry key="2016|GTS|GTS">
+			<null />
+		</entry>
+		<entry key="2016|GLA|GLA250W">
+			<null />
+		</entry>
+		<entry key="2016|GLA|GLA250W4">
+			<null />
+		</entry>
+		<entry key="2016|GLA|GLA45W4">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE350W">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE350W4">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE400W4">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE63W4">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE63W4S">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE550E4">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE63C4S">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE300D4">
+			<null />
+		</entry>
+		<entry key="2016|CLS|CLS550C">
+			<null />
+		</entry>
+		<entry key="2016|CLS|CLS550C4">
+			<null />
+		</entry>
+		<entry key="2016|CLS|CLS63C4S">
+			<null />
+		</entry>
+		<entry key="2016|CLA|CLA250C">
+			<null />
+		</entry>
+		<entry key="2016|CLA|CLA250C4">
+			<null />
+		</entry>		
+		<entry key="2016|CLA|CLA45C4">
+			<null />
+		</entry>
+		<entry key="2016|GLC|GLC300W">
+			<null />
+		</entry>
+		<entry key="2016|GLC|GLC300W4">
+			<null />
+		</entry>
+		<entry key="2016|S|S550C4">
+			<null />
+		</entry>
+		<entry key="2016|S|S63C4">
+			<null />
+		</entry>
+		<entry key="2016|S|S65C">
+			<null />
+		</entry>
+		<entry key="2016|C|C450W4">
+			<null />
+		</entry>
+		<entry key="2016|C|C300WB">
+			<null />
+		</entry>
+		<entry key="2016|C|C300W">
+			<null />
+		</entry>
+		<entry key="2016|C|C300WZ">
+			<null />
+		</entry>
+		<entry key="2016|C|C300WB4">
+			<null />
+		</entry>
+		<entry key="2016|C|C300W4">
+			<null />
+		</entry>
+		<entry key="2016|C|C300WZ4">
+			<null />
+		</entry>
+		<entry key="2016|C|C63W">
+			<null />
+		</entry>
+		<entry key="2016|C|C63WS">
+			<null />
+		</entry>
+		<entry key="2016|CLS|CLS400C">
+			<null />
+		</entry>
+		<entry key="2016|CLS|CLS400C4">
+			<null />
+		</entry>
+		<entry key="2016|GLE|GLE450C4">
+			<null />
+		</entry>
+		<entry key="2015|GLA|GLA250W2">
+			<null />
+		</entry>
+		<entry key="2015|GLA|GLA45">
+            <null />
+		</entry>
+		<entry key="2015|C|C63">
+			<null />
+		</entry>
+		<entry key="2015|C|C63P">
+			<null />
+		</entry>
+		<entry key="2015|S|S550C4">
+			<null />
+		</entry>
+		<entry key="2015|S|S63C4">
+			<null />
+		</entry>
+		<entry key="2015|S|S65C">
+			<null />
+		</entry>
+		<entry key="2015|C|C300W4">
+			<null />
+		</entry>
+		<entry key="2015|C|C400W4">
+			<null />
+		</entry>
+		<entry key="2015|CLA|CLA45">
+			<null />
+		</entry>
+		<entry key="2015|CLA|CLA250C">
+			<null />
+		</entry>
+		<entry key="2015|CLS|CLS63P">
+			<null />
+		</entry>
+		<entry key="2015|CLS|CLS400C">
+			<null />
+		</entry>
+		<entry key="2015|CLS|CLS550C">
+			<null />
+		</entry>
+		<entry key="GTS|GTS">
+			<null />
+		</entry>
+		<entry key="GTS|GT">
+			<null />
+		</entry>
+		<entry key="2017|S|S63C4">
+			<null />
+		</entry>
+		<entry key="2017|S|S65C">
+			<null />
+		</entry>
+		<entry key="2017|S|S63A4">
+			<null />
+		</entry>
+		<entry key="2017|S|S65A">
+			<null />
+		</entry>
+	</util:map>
